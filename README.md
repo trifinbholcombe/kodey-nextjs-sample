@@ -15,7 +15,7 @@ In this sample, we will explore how Kodey.ai can create react code for a nextjs 
 5. Execute the below prompt in the Kodey.ai chat UI
 6. Validate the commits and pull requests in your cloud git provider
 
-### SAMPLE PROMPT - Github Tools (Adding Login Page)
+### SAMPLE PROMPT - Github Tools (Adding Login & Sign Up Page)
 ```
    branch name to create: feature/login-signup-component
 
@@ -48,7 +48,7 @@ In this sample, we will explore how Kodey.ai can create react code for a nextjs 
    step 4: using GithubCreatePullRequest tool, create a new Pull Request from the above created branch with title "Added Login and signup Component" and body "Component for login and signup page is added".
 ```
 
-### SAMPLE PROMPT - Azure DevOps Tools (Adding Login page)
+### SAMPLE PROMPT - Azure DevOps Tools (Adding Login & Sign Up Page)
 ```
    branch name to create: feature/login-component
 
@@ -82,7 +82,7 @@ In this sample, we will explore how Kodey.ai can create react code for a nextjs 
    step 6: using AzureDevopsIssuesUpdateIssue tool, update the issue status to done.
 ```
 
-### SAMPLE PROMPT - Jira / Bitbucket
+### SAMPLE PROMPT - Jira / Bitbucket (Adding Login & Sign Up Page)
 ```
    branch name to create: feature/login-component
 
